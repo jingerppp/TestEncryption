@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">TestEncryption</string>
+    
+    <string name="encrypt_xor">Encryption XOR</string>
+    <string name="decrypt_xor">Decryption XOR</string>
+
+    <string name="encrypt_aes">Encryption AES</string>
+    <string name="decrypt_aes">Decryption AES</string>
+    
+    <string name="encrypt_des">Encryption DES</string>
+    <string name="decrypt_des">Decryption DES</string>
+    
+    <string name="encrypt_desede">Encryption 3DES</string>
+    <string name="decrypt_desede">Decryption 3DES</string>
+    
+    <string name="encrypt_md5">Encryption MD5</string>
+    
+    <string name="encrypt_sha1">Encryption SHA-1</string>
+    
+    <string name="encrypt_rsa">Encryption RSA</string>
+    <string name="decrypt_rsa">Decryption RSA</string>
+    
+    <string name="before_operation">Before operation: \n<xliff:g id="str_before" example="12345">%1$s</xliff:g></string>
+    <string name="after_operation">After operation: \n<xliff:g id="str_after" example="12345">%1$s</xliff:g></string>
+</resources>
